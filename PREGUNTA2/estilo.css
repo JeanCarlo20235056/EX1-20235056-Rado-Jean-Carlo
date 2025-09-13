@@ -1,0 +1,13 @@
+header{
+    font-size:20px;
+    color:black;
+}
+
+*{
+    text-align: center;
+}
+
+
+#temperatura, #boton{
+    color: red;
+}

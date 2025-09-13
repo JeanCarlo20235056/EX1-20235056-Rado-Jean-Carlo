@@ -1,0 +1,66 @@
+
+
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    display: flex;
+}
+
+
+
+#Abril, #info{
+    text-align: center;
+}
+
+
+header #Nintendo{
+    border-radius: 25px;
+    height: 25px;
+    width:25px;
+}
+
+#Nintendo{
+    margin: 20px;
+}
+
+
+.contenedor{
+    background-color: (to bottom, red, white);
+}
+
+.contenedor #BannerMario{
+    border-radius: 25px;
+    background-size:cover;
+    align-content: center;
+}
+
+
+.Primario #Abril {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.Primario #info{
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+
+.Destacados section{
+    display:flex;
+
+}
+
+
+.Destacados #infoDestacado{
+    font-family: sans-serif;
+    font-size: 10px;
+    border: 3px color(royalblue);
+    background-color: white;
+}
+
